@@ -1,4 +1,5 @@
 .venv
-data/raw/raw_kaggle/img
+data/raw
 output
 output_1
+data/raw/raw_kaggle/img
